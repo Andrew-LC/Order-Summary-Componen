@@ -25,13 +25,13 @@ body {
 
 @media only screen and (min-width: 900px) {
   body {
-    max-width: 900px;
+    width: 100vw;
     background: url("../images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-color: #c7d6ff;
     display: flex;
     align-items: center;
-    flex-direction: column-reverse;
+    justify-content: center;
     position: relative;
   }
 }
@@ -136,8 +136,7 @@ body {
   .order-container {
     height: 600px;
     width: 400px;
-    position: absolute;
-    left: 500px;
+    position: unset;
   }
 
   .btn-order {
