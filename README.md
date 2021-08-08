@@ -13,7 +13,7 @@ To build a order summary card component and get it looking as close to the desig
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-component-using-basic-css-in-mobile-first-view-uhkGrmzhb)
 - Live Site URL: [Live demo](https://andrew-lc.github.io/Order-Summary-Component/)
 
 ### Built with
