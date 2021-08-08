@@ -6,14 +6,15 @@ To build a order summary card component and get it looking as close to the desig
 
 ### Screenshot
 
-![](./images/Desktop-preview.png)
+![](./images/Desktop-preview.png) 
 
-![](./images/Mobile-view-preview.png)
+
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [CLick here](https://your-solution-url.com)
+- Live Site URL: [CLick here for live demo](https://your-live-site-url.com)
 
 ### Built with
 
@@ -21,6 +22,7 @@ To build a order summary card component and get it looking as close to the desig
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
 
 ### Continued development
 
