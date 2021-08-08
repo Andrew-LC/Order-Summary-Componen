@@ -13,8 +13,8 @@ To build a order summary card component and get it looking as close to the desig
 
 ### Links
 
-- Solution URL: [CLick here](https://your-solution-url.com)
-- Live Site URL: [CLick here for live demo](https://andrew-lc.github.io/Order-Summary-Component/)
+- Solution URL: [Click here](https://your-solution-url.com)
+- Live Site URL: [Live demo](https://andrew-lc.github.io/Order-Summary-Component/)
 
 ### Built with
 
